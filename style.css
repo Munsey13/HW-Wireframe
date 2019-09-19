@@ -1,48 +1,97 @@
 body {
     background-color: #777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
     width: 960px;
     font-size: 18px;
-
+    margin: auto;
+    padding-top: 10px;
 }
 
 .header {
     background-color: #ebebeb;
     text-align: center;
+    margin-right: 100px;
+    margin-bottom:10px;
+    margin-left: 100px;
+    padding-top:25px;
+    padding-bottom: 25px;
 }
 
 .nav {
     background-color: #ebebeb;
     text-align: center;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 .section {
     background-color: #ebebeb;
     width: 495px;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 100px;
+    padding-top: 15px;
+    padding-bottom: 18px;
+    float: left;
+
 }
 
 .article {
     color: #ebebeb;
     background: #777;
+    text-align: center;
+    margin-top: 25px;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 5px;
 }
 
 .headings {
     color: #777;
-    background: #ebebeb
+    background: #ebebeb;
+    text-align: center;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .paragraphs {
     color: #777;
     background: #ebebeb;
+    text-align: center;
+    margin-right: 15px;
+    margin-left:15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .aside {
     color: #777;
     background:#ebebeb;
+    text-align: center;
+    padding-top: 100px;
+    padding-right: 101px;
+    padding-bottom: 149px;
+    padding-left: 100px;
+    float: left;
 }
 
 .footer {
     color: #777;
     background: #ebebeb;
     text-align: center;
+    margin-top: 15px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding-top: 25px;
+    padding-right: 355px;
+    padding-bottom: 25px;
+    padding-left: 359px;
+    float:left;
 }
